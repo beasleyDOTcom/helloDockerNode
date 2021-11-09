@@ -1,0 +1,20 @@
+{
+  "name": "hellodockernode",
+  "version": "1.0.0",
+  "description": "just a simple hello world app to practice deploying a container to heroku in a language I'm more comfortable with to start.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beasleyDOTcom/helloDockerNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beasleyDOTcom/helloDockerNode/issues"
+  },
+  "homepage": "https://github.com/beasleyDOTcom/helloDockerNode#readme"
+}
