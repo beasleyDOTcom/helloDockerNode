@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/beasleyDOTcom/helloDockerNode/issues"
   },
-  "homepage": "https://github.com/beasleyDOTcom/helloDockerNode#readme"
+  "homepage": "https://github.com/beasleyDOTcom/helloDockerNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
